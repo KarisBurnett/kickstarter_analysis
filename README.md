@@ -6,6 +6,34 @@ Performing analysis on Kickstarter data to uncover trends
 
 ![Parent Category Outcomes](https://user-images.githubusercontent.com/85076259/121833610-ef299e00-cc89-11eb-801d-c30651bc0288.png)
 
+# Kickstarting with Excel
+
+## Overview of Project
+
+### Purpose
+
+## Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Date
+
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
+
+
+
+
+
 Kickstarter Analysis
 Outcomes Based on Launch Date
 Louise had a fundraiser for her play that ended up doing well and came close to its goal in a short amount of time. She was interested in how other campaigns fared in relation to their launch dates and funding goals. I used this data set to gather some conclusions. Over the course of analyzing the data presented I gathered two conclusions that stood out most. One conclusion was that I noticed the month of May was the most successful month in comparison to other months regarding launch dates. The other conclusion I was able to draw was that although there are significantly less failed fundraisers compared to successful, they do follow a very similar pattern throughout the year. When success rate is up so is failed rate. In December, failed and successful were at the same amount. 
